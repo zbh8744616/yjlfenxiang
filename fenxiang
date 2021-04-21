@@ -1,0 +1,18 @@
+http=a1.ap.fastqvpn.com:29980, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=一键连11
+
+http=a2.ap.fastqvpn.com:29980, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=一键连21
+
+http=a3.ap.fastqvpn.com:29980, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=一键连31
+1
+http=a4.ap.fastqvpn.com:29980, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=一键连41
+
+http=a5.ap.fastqvpn.com:29980, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=一键连51
+
+http=a1.er3.xyz:29980, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=YJL-HK051
+http=ap1-jp.er3.xyz:29985, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=YJL-JP011
+http=ap1-sg.er3.xyz:29986, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=YJL-SG011
+http=ap1-uk.er3.xyz:29987, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=YJL-FR011
+http=ap1-us.er3.xyz:29988, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=YJL-US011
+http=ap1-ge.er3.xyz:29984, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=YJL-US021
+http=ap1-ca.er3.xyz:29983, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=YJL-US031
+http=ap1-au.er3.xyz:29982, username=432931141142446080, password=afa7e167-4c16-4e70-9af4-48755f54e1ab, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=YJL-US041
