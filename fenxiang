@@ -27,7 +27,7 @@ http=a1.er3.xyz:29985, username=432582052932485120, password=6e6228e7-d7e5-4e4f-
 http=a1.er3.xyz:29986, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=SG/新加坡11
 http=a1.er3.xyz:29987, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=UK/英国11
 http=a1.er3.xyz:29988, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=US/美国11
-http=ap1-ge.er3.xyz:29980, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=HK/香港111
+http=ap1-ge.er3.xyz:29980, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=HK/香港1111
 http=ap1-ge.er3.xyz:29982, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=AU/澳大利亚111
 http=ap1-ge.er3.xyz:29983, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=CA/加拿大111
 http=ap1-ge.er3.xyz:29984, username=432582052932485120, password=6e6228e7-d7e5-4e4f-a1b3-41dfd4eab7bf, over-tls=true, tls-verification=true, tls-host=, fast-open=false, udp-relay=false, tag=DE/德国111
